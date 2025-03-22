@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.3",
+    "fabric": "^6.6.1",
+    "react-bootstrap": "^2.10.9",
+    "react-router-dom": "^6.30.0",
+    "three": "^0.174.0"
+  }
+}
